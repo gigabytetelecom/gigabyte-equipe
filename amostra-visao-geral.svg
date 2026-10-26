@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1000" viewBox="0 0 1440 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c111a"/><stop offset="1" stop-color="#080a0f"/></linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#123c72"/><stop offset=".62" stop-color="#101823"/><stop offset="1" stop-color="#153044"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171e29"/><stop offset="1" stop-color="#10141c"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity=".24"/></filter>
+  </defs>
+  <rect width="1440" height="1000" fill="url(#bg)"/>
+  <rect width="254" height="1000" fill="#0d1119"/>
+  <path d="M254 0v1000" stroke="#252d3a"/>
+  <text x="127" y="62" text-anchor="middle" fill="#55c8ff" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="1.5">GIGA BYTE</text>
+  <text x="127" y="87" text-anchor="middle" fill="#8291a8" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2.1">CENTRO DE CONTROLE</text>
+  <path d="M22 111h210" stroke="#252c39"/>
+  <text x="30" y="153" fill="#65748a" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="1.7">PAINEL</text>
+  <rect x="16" y="168" width="222" height="48" rx="11" fill="#12365b" stroke="#1d5ba0"/>
+  <rect x="16" y="178" width="3" height="28" rx="2" fill="#36b8ff"/>
+  <text x="35" y="199" fill="#53c7ff" font-family="Segoe UI,Arial,sans-serif" font-size="21">▦</text><text x="70" y="199" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">Visão geral</text>
+  <text x="30" y="251" fill="#65748a" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="1.7">EQUIPAMENTOS</text>
+  <g fill="#c2cede" font-family="Segoe UI,Arial,sans-serif" font-size="15">
+    <text x="37" y="294" fill="#8ca0ba" font-size="21">⌁</text><text x="70" y="294">Roteadores</text>
+    <text x="37" y="341" fill="#8ca0ba" font-size="21">ϟ</text><text x="70" y="341">Fontes</text>
+    <text x="37" y="388" fill="#8ca0ba" font-size="21">⚙</text><text x="70" y="388">Fila sem sistema</text>
+    <text x="37" y="435" fill="#8ca0ba" font-size="21">↕</text><text x="70" y="435">Movimentações</text>
+  </g>
+  <text x="30" y="493" fill="#65748a" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="1.7">GESTÃO</text>
+  <text x="37" y="538" fill="#8ca0ba" font-family="Segoe UI,Arial,sans-serif" font-size="21">▤</text><text x="70" y="538" fill="#c2cede" font-family="Segoe UI,Arial,sans-serif" font-size="15">Relatórios</text>
+  <path d="M20 921h214" stroke="#252c39"/>
+  <circle cx="42" cy="958" r="18" fill="#183e68"/><text x="42" y="964" text-anchor="middle" fill="#78d8ff" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">E</text>
+  <text x="70" y="955" fill="#e8edf5" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">Equipe</text><text x="70" y="974" fill="#8190a6" font-family="Segoe UI,Arial,sans-serif" font-size="11">Giga Byte Telecom</text>
+
+  <text x="292" y="39" fill="#4abfff" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="800" letter-spacing="2">GIGA BYTE TELECOM / CONTROLE TI</text>
+  <text x="292" y="78" fill="#f4f7fb" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="750">Visão geral</text>
+  <text x="292" y="103" fill="#9aa6b8" font-family="Segoe UI,Arial,sans-serif" font-size="14">Resumo do estoque e das tarefas pendentes.</text>
+  <rect x="1171" y="47" width="127" height="37" rx="19" fill="#10281f" stroke="#246348"/>
+  <circle cx="1192" cy="65.5" r="5" fill="#31c48d"/><circle cx="1192" cy="65.5" r="9" fill="none" stroke="#31c48d" stroke-opacity=".28" stroke-width="3"/>
+  <text x="1207" y="71" fill="#72e6b7" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">Ao vivo</text>
+  <rect x="1310" y="47" width="112" height="37" rx="10" fill="#222a37" stroke="#343e4e"/><text x="1325" y="71" fill="#dce5f3" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">↓ Exportar dados</text>
+
+  <rect x="286" y="127" width="1138" height="105" rx="17" fill="url(#hero)" stroke="#203c5b" filter="url(#shadow)"/>
+  <text x="311" y="169" fill="#f4f8ff" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="750">Centro de Controle Giga Byte</text>
+  <text x="311" y="196" fill="#aebbd0" font-family="Segoe UI,Arial,sans-serif" font-size="13">Visão rápida do estoque, das instalações e dos pontos que precisam de atenção.</text>
+  <text x="1395" y="169" text-anchor="end" fill="#9bb6d8" font-family="Segoe UI,Arial,sans-serif" font-size="13">◷  terça-feira, 20 de outubro de 2026</text>
+  <text x="1395" y="195" text-anchor="end" fill="#7189a7" font-family="Segoe UI,Arial,sans-serif" font-size="11">Painel de acompanhamento</text>
+
+  <g filter="url(#shadow)">
+    <rect x="286" y="250" width="270" height="128" rx="15" fill="url(#card)" stroke="#293342"/>
+    <rect x="570" y="250" width="270" height="128" rx="15" fill="url(#card)" stroke="#293342"/>
+    <rect x="854" y="250" width="270" height="128" rx="15" fill="url(#card)" stroke="#293342"/>
+    <rect x="1138" y="250" width="286" height="128" rx="15" fill="url(#card)" stroke="#293342"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="306" y="282" fill="#b7c3d5" font-size="13">Roteadores cadastrados</text><rect x="510" y="263" width="31" height="31" rx="10" fill="#142e4d"/><text x="525" y="285" text-anchor="middle" fill="#50c4ff" font-size="19">⌁</text><text x="306" y="332" fill="#f7fbff" font-size="35" font-weight="800">128</text><text x="306" y="357" fill="#8293aa" font-size="11">Unidades registradas no estoque</text>
+    <text x="590" y="282" fill="#b7c3d5" font-size="13">Estoque baixo</text><rect x="794" y="263" width="31" height="31" rx="10" fill="#3b2d16"/><text x="809" y="285" text-anchor="middle" fill="#ffd16b" font-size="19">!</text><text x="590" y="332" fill="#f7fbff" font-size="35" font-weight="800">4</text><text x="590" y="357" fill="#8293aa" font-size="11">Modelos no limite de reposição</text>
+    <text x="874" y="282" fill="#b7c3d5" font-size="13">Aguardando sistema</text><rect x="1078" y="263" width="31" height="31" rx="10" fill="#3b2d16"/><text x="1093" y="285" text-anchor="middle" fill="#ffc56b" font-size="18">⚙</text><text x="874" y="332" fill="#f7fbff" font-size="35" font-weight="800">12</text><text x="874" y="357" fill="#8293aa" font-size="11">Unidades na fila de instalação</text>
+    <text x="1158" y="282" fill="#b7c3d5" font-size="13">Fontes cadastradas</text><rect x="1378" y="263" width="31" height="31" rx="10" fill="#142e4d"/><text x="1393" y="285" text-anchor="middle" fill="#50c4ff" font-size="18">ϟ</text><text x="1158" y="332" fill="#f7fbff" font-size="35" font-weight="800">82</text><text x="1158" y="357" fill="#8293aa" font-size="11">Unidades de todas as especificações</text>
+  </g>
+
+  <text x="286" y="415" fill="#f2f5fa" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">Atalhos da operação</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="286" y="429" width="270" height="84" rx="13" fill="#121923" stroke="#2a3444"/><text x="304" y="457" fill="#66e2b3" font-size="20">＋</text><text x="304" y="480" fill="#e6edf8" font-size="13" font-weight="700">Registrar roteador</text><text x="304" y="499" fill="#8e9cb0" font-size="11">Cadastrar modelo e MAC</text>
+    <rect x="570" y="429" width="270" height="84" rx="13" fill="#121923" stroke="#2a3444"/><text x="588" y="457" fill="#ffd16b" font-size="19">⚙</text><text x="588" y="480" fill="#e6edf8" font-size="13" font-weight="700">Fila de instalação</text><text x="588" y="499" fill="#8e9cb0" font-size="11">Consultar e concluir pendências</text>
+    <rect x="854" y="429" width="270" height="84" rx="13" fill="#121923" stroke="#2a3444"/><text x="872" y="457" fill="#50c4ff" font-size="19">ϟ</text><text x="872" y="480" fill="#e6edf8" font-size="13" font-weight="700">Controlar fontes</text><text x="872" y="499" fill="#8e9cb0" font-size="11">Conferir quantidades disponíveis</text>
+    <rect x="1138" y="429" width="286" height="84" rx="13" fill="#121923" stroke="#2a3444"/><text x="1156" y="457" fill="#50c4ff" font-size="19">⇩</text><text x="1156" y="480" fill="#e6edf8" font-size="13" font-weight="700">Relatório gerencial</text><text x="1156" y="499" fill="#8e9cb0" font-size="11">Baixar dados para Excel</text>
+  </g>
+
+  <text x="286" y="550" fill="#f2f5fa" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">Alertas e acompanhamento</text>
+  <rect x="286" y="564" width="558" height="63" rx="12" fill="#241d12" stroke="#57421f"/>
+  <text x="305" y="591" fill="#ffd58b" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="750">⚠  Atenção ao estoque</text><text x="305" y="612" fill="#d4b976" font-family="Segoe UI,Arial,sans-serif" font-size="12">Archer C20 (2) · EX521 (1) · MR30G (2)</text>
+  <rect x="858" y="564" width="566" height="63" rx="12" fill="#111f2f" stroke="#234b71"/>
+  <text x="877" y="591" fill="#a8d9ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="750">⚙  Instalações pendentes</text><text x="877" y="612" fill="#8cb8da" font-family="Segoe UI,Arial,sans-serif" font-size="12">12 unidades aguardando sistema.</text>
+
+  <text x="286" y="665" fill="#f2f5fa" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">Resumo do inventário</text>
+  <rect x="286" y="680" width="558" height="265" rx="15" fill="url(#card)" stroke="#293342"/>
+  <text x="307" y="712" fill="#f2f5fa" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="750">Estoque por modelo</text><text x="307" y="733" fill="#8794a8" font-family="Segoe UI,Arial,sans-serif" font-size="11">Quantidade atual calculada a partir dos registros disponíveis.</text>
+  <rect x="302" y="748" width="526" height="31" fill="#111720"/><text x="314" y="768" fill="#8290a5" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="800" letter-spacing=".6">MODELO</text><text x="657" y="768" fill="#8290a5" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="800">QUANTIDADE</text><text x="749" y="768" fill="#8290a5" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="800">SITUAÇÃO</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="12"><path d="M302 779h526M302 833h526M302 887h526" stroke="#252d3a"/><text x="314" y="801" fill="#dce3ed" font-weight="700">TP-Link Archer C20</text><text x="314" y="819" fill="#8794a8" font-size="10">Wireless Dual Band AC750</text><text x="676" y="809" fill="#dce3ed">2</text><rect x="744" y="790" width="76" height="23" rx="12" fill="#47351b"/><text x="782" y="806" text-anchor="middle" fill="#ffd077" font-size="10" font-weight="800">Estoque baixo</text>
+  <text x="314" y="855" fill="#dce3ed" font-weight="700">TP-Link Archer C5</text><text x="314" y="873" fill="#8794a8" font-size="10">Gigabit Dual Band AC1200</text><text x="676" y="863" fill="#dce3ed">18</text><rect x="744" y="844" width="76" height="23" rx="12" fill="#123c30"/><text x="782" y="860" text-anchor="middle" fill="#66e2b3" font-size="10" font-weight="800">Em estoque</text>
+  <text x="314" y="909" fill="#dce3ed" font-weight="700">Mercusys AC12G</text><text x="676" y="909" fill="#dce3ed">9</text><rect x="744" y="890" width="76" height="23" rx="12" fill="#123c30"/><text x="782" y="906" text-anchor="middle" fill="#66e2b3" font-size="10" font-weight="800">Em estoque</text></g>
+
+  <rect x="858" y="680" width="566" height="265" rx="15" fill="url(#card)" stroke="#293342"/>
+  <text x="879" y="712" fill="#f2f5fa" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="750">Fila de instalação</text><text x="879" y="733" fill="#8794a8" font-family="Segoe UI,Arial,sans-serif" font-size="11">Equipamentos que ainda precisam de atenção.</text>
+  <rect x="874" y="748" width="534" height="31" fill="#111720"/><text x="886" y="768" fill="#8290a5" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="800" letter-spacing=".5">MODELO / MAC</text><text x="1209" y="768" fill="#8290a5" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="800">QTD.</text><text x="1272" y="768" fill="#8290a5" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="800">STATUS</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="12"><path d="M874 779h534M874 833h534M874 887h534" stroke="#252d3a"/><text x="886" y="801" fill="#dce3ed" font-weight="700">TP-Link EX521</text><text x="886" y="819" fill="#8794a8" font-size="10">MAC: A0-95-75-11-20-3B</text><text x="1220" y="809" fill="#dce3ed">1</text><rect x="1266" y="790" width="91" height="23" rx="12" fill="#47351b"/><text x="1311" y="806" text-anchor="middle" fill="#ffd077" font-size="10" font-weight="800">Sem sistema</text>
+  <text x="886" y="855" fill="#dce3ed" font-weight="700">Mercusys MR30G</text><text x="886" y="873" fill="#8794a8" font-size="10">MAC: 60-32-B1-34-25-9A</text><text x="1220" y="863" fill="#dce3ed">1</text><rect x="1266" y="844" width="91" height="23" rx="12" fill="#15385d"/><text x="1311" y="860" text-anchor="middle" fill="#80caff" font-size="10" font-weight="800">Em andamento</text></g>
+  <text x="1420" y="979" text-anchor="end" fill="#607188" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="1">AMOSTRA VISUAL · DADOS FICTÍCIOS</text>
+</svg>

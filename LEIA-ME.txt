@@ -1,0 +1,7 @@
+Giga Byte Telecom - versão 13
+
+Para publicar no Netlify, envie juntos os arquivos index.html e supabase.js. Execute supabase-username-login.sql no Editor SQL do Supabase antes do primeiro acesso.
+
+Esta versão substitui as caixas de confirmação nativas do navegador por uma janela personalizada para excluir roteadores, fontes, itens da fila e movimentações.
+O acesso padrão da equipe é usuário bruno e senha bruno. Os relatórios podem ser gerados em PDF pela opção de impressão do navegador. Veja CONFIGURAR-BANCO.md.
+
